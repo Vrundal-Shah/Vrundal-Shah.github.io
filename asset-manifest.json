@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Vrundal-Shah.github.io%20/static/css/main.c7f9047c.chunk.css",
-    "main.js": "/Vrundal-Shah.github.io%20/static/js/main.c951c9e1.chunk.js",
-    "main.js.map": "/Vrundal-Shah.github.io%20/static/js/main.c951c9e1.chunk.js.map",
-    "runtime-main.js": "/Vrundal-Shah.github.io%20/static/js/runtime-main.723c4e20.js",
-    "runtime-main.js.map": "/Vrundal-Shah.github.io%20/static/js/runtime-main.723c4e20.js.map",
-    "static/js/2.a45318fe.chunk.js": "/Vrundal-Shah.github.io%20/static/js/2.a45318fe.chunk.js",
-    "static/js/2.a45318fe.chunk.js.map": "/Vrundal-Shah.github.io%20/static/js/2.a45318fe.chunk.js.map",
-    "static/js/3.d1600f38.chunk.js": "/Vrundal-Shah.github.io%20/static/js/3.d1600f38.chunk.js",
-    "static/js/3.d1600f38.chunk.js.map": "/Vrundal-Shah.github.io%20/static/js/3.d1600f38.chunk.js.map",
-    "index.html": "/Vrundal-Shah.github.io%20/index.html",
-    "static/css/main.c7f9047c.chunk.css.map": "/Vrundal-Shah.github.io%20/static/css/main.c7f9047c.chunk.css.map",
-    "static/js/2.a45318fe.chunk.js.LICENSE.txt": "/Vrundal-Shah.github.io%20/static/js/2.a45318fe.chunk.js.LICENSE.txt"
+    "main.css": "/Vrundal-Shah.github.io/static/css/main.c7f9047c.chunk.css",
+    "main.js": "/Vrundal-Shah.github.io/static/js/main.c951c9e1.chunk.js",
+    "main.js.map": "/Vrundal-Shah.github.io/static/js/main.c951c9e1.chunk.js.map",
+    "runtime-main.js": "/Vrundal-Shah.github.io/static/js/runtime-main.76e66835.js",
+    "runtime-main.js.map": "/Vrundal-Shah.github.io/static/js/runtime-main.76e66835.js.map",
+    "static/js/2.a45318fe.chunk.js": "/Vrundal-Shah.github.io/static/js/2.a45318fe.chunk.js",
+    "static/js/2.a45318fe.chunk.js.map": "/Vrundal-Shah.github.io/static/js/2.a45318fe.chunk.js.map",
+    "static/js/3.d1600f38.chunk.js": "/Vrundal-Shah.github.io/static/js/3.d1600f38.chunk.js",
+    "static/js/3.d1600f38.chunk.js.map": "/Vrundal-Shah.github.io/static/js/3.d1600f38.chunk.js.map",
+    "index.html": "/Vrundal-Shah.github.io/index.html",
+    "static/css/main.c7f9047c.chunk.css.map": "/Vrundal-Shah.github.io/static/css/main.c7f9047c.chunk.css.map",
+    "static/js/2.a45318fe.chunk.js.LICENSE.txt": "/Vrundal-Shah.github.io/static/js/2.a45318fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.723c4e20.js",
+    "static/js/runtime-main.76e66835.js",
     "static/js/2.a45318fe.chunk.js",
     "static/css/main.c7f9047c.chunk.css",
     "static/js/main.c951c9e1.chunk.js"
